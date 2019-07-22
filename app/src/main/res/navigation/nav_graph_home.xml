@@ -7,13 +7,13 @@
     
     <fragment
             android:id="@+id/feedFragment"
-            android:label="fragment_feed"
+            android:label="Feeds"
             android:name="com.example.andriod.android_navigation.FeedFragment"
             tools:layout="@layout/fragment_feed">
     </fragment>
     <fragment
             android:id="@+id/ordersFragment"
-            android:label="fragment_orders"
+            android:label="Past Orders"
             android:name="com.example.andriod.android_navigation.OrdersFragment"
             tools:layout="@layout/fragment_orders">
     </fragment>
